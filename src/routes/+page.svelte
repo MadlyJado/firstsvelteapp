@@ -1,1 +1,6 @@
-<h1>Hello!</h1>
+<head>
+    <title>First Svelte Project!</title>
+</head>
+<body>
+    <p>I cannot keep thoust joust in thou panties.</p>
+</body>
