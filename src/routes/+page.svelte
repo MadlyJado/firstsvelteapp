@@ -1,6 +1,4 @@
-<head>
-    <title>First Svelte Project!</title>
-</head>
-<body>
-    
-</body>
+<script>
+    import Home from "$lib/pages/home.svelte"
+</script>
+<Home/>
